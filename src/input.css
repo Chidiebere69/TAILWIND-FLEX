@@ -1,0 +1,4 @@
+@import "tailwindcss";
+header button{
+    @apply py-2 font-medium text-sm rounded-md
+}
